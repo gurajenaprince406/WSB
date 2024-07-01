@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = ExchangeRateService
+build_property.ProjectDir = C:\Users\User\Downloads\Tutorials\exchange-rate-microservice\src\ExchangeRateService\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
