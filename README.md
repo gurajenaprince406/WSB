@@ -1,0 +1,2 @@
+# WSB
+ Exchange Rate API
